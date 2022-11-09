@@ -1,0 +1,17 @@
+.img{
+    width: 50%;
+    height: 30%
+    /* border: 1px solid black; */
+}
+.orderconfirm{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top:100px;
+}
+.orderconfirm h2{
+    margin-left: 20%;
+}
+.orderconfirm p{
+    margin-left: 40%;
+}
