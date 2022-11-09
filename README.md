@@ -38,7 +38,7 @@ $ git clone https://github.com/venkycoder422/Anthropologie.git
 
 - [Venkatesulu](https://github.com/venkycoder422)
 - [Chinni](https://github.com/Chinni-Chinni)
-- [mdehtesham](https://github.com/mdehteshamcoder)
+- [Mdehtesham](https://github.com/mdehteshamcoder)
 - [Meenu Katariya](https://github.com/MeenuKatariya)
 ## Tech Stacks
 - React js
